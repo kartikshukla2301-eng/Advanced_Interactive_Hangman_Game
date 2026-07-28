@@ -1,0 +1,26 @@
+{
+    "players": {
+        "Kartik": {
+            "name": "Kartik",
+            "high_score": 198,
+            "total_games": 2,
+            "wins": 1,
+            "losses": 1,
+            "current_streak": 1,
+            "best_streak": 1,
+            "total_points": 198,
+            "fastest_win_seconds": 31.0
+        }
+    },
+    "leaderboard": [
+        {
+            "name": "Kartik",
+            "high_score": 198,
+            "total_points": 198,
+            "wins": 1,
+            "total_games": 2,
+            "win_rate": 50.0,
+            "best_streak": 1
+        }
+    ]
+}
